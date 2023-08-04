@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T18:05:26 IST" name="Default suite" finished-at="2023-08-04T18:05:32 IST" duration-ms="5761">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T18:05:26 IST" name="Default test" finished-at="2023-08-04T18:05:32 IST" duration-ms="5761">
+      <class name="testScripts.DWS_Login_002">
+        <test-method is-config="true" signature="reportMethod()[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:26 IST" name="reportMethod" finished-at="2023-08-04T18:05:26 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportMethod -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:26 IST" name="openBrowser" finished-at="2023-08-04T18:05:30 IST" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:30 IST" name="beforeMethod" finished-at="2023-08-04T18:05:30 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.DWS_Login_002.logintest_002()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logintest_002()[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:30 IST" name="logintest_002" finished-at="2023-08-04T18:05:32 IST" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest_002 -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:32 IST" name="afterMethod" finished-at="2023-08-04T18:05:32 IST" duration-ms="316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.DWS_Login_002.logintest_002()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScripts.DWS_Login_002@51e69659]" started-at="2023-08-04T18:05:32 IST" name="closeBrowser" finished-at="2023-08-04T18:05:32 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testScripts.DWS_Login_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
